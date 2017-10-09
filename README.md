@@ -1,4 +1,5 @@
 # Light Table [![Build Status](https://travis-ci.org/LightTable/LightTable.svg?branch=master)](https://travis-ci.org/LightTable/LightTable)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FLightTable.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FLightTable?ref=badge_shield)
 
 Light Table is a next generation code editor that connects you to your creation with instant feedback. Light Table is very customizable and can display anything a [Chromium browser](http://www.chromium.org/) can.
 
@@ -32,6 +33,9 @@ In order to develop for Light Table, you will need to [install a developer versi
 ## License
 
 All files in this project are under the [LICENSE.md](LICENSE.md) license unless otherwise stated in the file or by a dependency's license file.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FLightTable.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FLightTable?ref=badge_large)
 
 ## Credits
 
